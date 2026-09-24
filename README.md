@@ -15,5 +15,3 @@ Shadowrocket rule lists. Each file has domains only. The local config's RULE-SET
 | shadowrocket/apple-ai-extra.list | APPLE AI |
 | shadowrocket/ms-copilot.list | MICROSOFT COPILOT |
 | shadowrocket/youtube-extra.list | YOUTUBE |
-| shadowrocket/local-services.list | LOCAL SERVICES |
-| shadowrocket/quark-compat.list | LOCAL SERVICES |
