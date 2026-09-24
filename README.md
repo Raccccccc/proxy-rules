@@ -1,6 +1,19 @@
 # proxy-rules
 
-Shadowrocket rule lists. Each file is one policy, applied by the RULE-SET line in the local config.
+Shadowrocket rule lists. Each file has domains only. The local config's RULE-SET line sets the policy.
 
-- shadowrocket/muse.list -> PROXY
-- shadowrocket/grok.list -> GROK
+| File | Policy |
+|---|---|
+| shadowrocket/muse.list | PROXY |
+| shadowrocket/grok.list | GROK |
+| shadowrocket/openai-extra.list | OPENAI |
+| shadowrocket/cursor-extra.list | CURSOR |
+| shadowrocket/notebooklm.list | NOTEBOOKLM |
+| shadowrocket/antigravity.list | ANTIGRAVITY |
+| shadowrocket/google-auth.list | GOOGLE AUTH |
+| shadowrocket/ai-shared.list | AI SHARED |
+| shadowrocket/apple-ai-extra.list | APPLE AI |
+| shadowrocket/ms-copilot.list | MICROSOFT COPILOT |
+| shadowrocket/youtube-extra.list | YOUTUBE |
+| shadowrocket/local-services.list | LOCAL SERVICES |
+| shadowrocket/quark-compat.list | LOCAL SERVICES |
