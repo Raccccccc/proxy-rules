@@ -4,14 +4,14 @@ Shadowrocket rule lists. Each file has domains only. The local config's RULE-SET
 
 | File | Policy |
 |---|---|
-| shadowrocket/muse.list | PROXY |
-| shadowrocket/grok.list | GROK |
-| shadowrocket/openai-extra.list | OPENAI |
-| shadowrocket/cursor-extra.list | CURSOR |
-| shadowrocket/notebooklm.list | NOTEBOOKLM |
-| shadowrocket/antigravity.list | ANTIGRAVITY |
-| shadowrocket/google-auth.list | GOOGLE AUTH |
-| shadowrocket/ai-shared.list | AI SHARED |
-| shadowrocket/apple-ai-extra.list | APPLE AI |
-| shadowrocket/ms-copilot.list | MICROSOFT COPILOT |
-| shadowrocket/youtube-extra.list | YOUTUBE |
+| shadowrocket/muse.list | Muse |
+| shadowrocket/grok.list | Grok |
+| shadowrocket/openai-extra.list | OpenAI |
+| shadowrocket/cursor-extra.list | Cursor |
+| shadowrocket/notebooklm.list | NotebookLM |
+| shadowrocket/antigravity.list | Antigravity |
+| shadowrocket/google-auth.list | Google Auth |
+| shadowrocket/ai-shared.list | AI Shared. Cursor/WorkOS is listed again in the conf before this file, so login follows Cursor. |
+| shadowrocket/apple-ai-extra.list | Apple AI |
+| shadowrocket/ms-copilot.list | Microsoft Copilot |
+| shadowrocket/youtube-extra.list | YouTube |
